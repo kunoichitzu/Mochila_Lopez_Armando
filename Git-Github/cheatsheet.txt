@@ -1,0 +1,13 @@
+CHEATSHEET GIT GITHUB
+git init: sirve para inicializar el repositorio
+git status: sirve para visualizar los archivos en Working-Directory or Untracked
+git add: agrega los archivos
+git commit -m "<CONVENTIONAL-COMMIT>": crea un nodo denominado commit
+git push: actualiza lso cambios locales en el repositorio en la nube
+git config credential.username "newAccountName": cambia credenciales de usuario de git
+git config user.name: muestra el nombre de usuario de git
+git config user.email: muestra el email del usuario de git
+git config --edit: muestra un editor de texto con la configuración para editar
+git config --list: lista la configuración de github
+git config github.token: inserta el token
+
